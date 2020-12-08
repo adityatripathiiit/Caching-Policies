@@ -1,6 +1,6 @@
 # Caching Policies ⭐
 
-Implementation and comparison of various caching policies, on different type of workloads. 
+Implementation and comparison of various caching policies/page replacement policies, on different type of workloads in C. 
 
 ## Directory Structure 📁
 
